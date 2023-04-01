@@ -1,1 +1,11 @@
-I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+Resources
+
+Read or watch:
+
+    Secrets of printf
+    Group Projects concept page (Don’t forget to read this)
+    Flowcharts concept page
+
+man or help:
+
+    printf (3)
